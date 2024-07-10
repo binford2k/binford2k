@@ -2,7 +2,7 @@
 
 I’m just your average beer & coffee drinking software developer and sysadmin in PDX.
 When I told people I was moving here, nobody was surprised. This may have something
-to do with the toe shoes. I’m a Developer Advocate at [Puppet](https://puppet.com),
+to do with the toe shoes. I’m a Developer Advocate,
 which basically means that I know how to talk to developers outside the company and
 to developers inside the company and I can help them to be friends with each other.
 I get to play with all the cool new tools and help others learn how to do it for real.
